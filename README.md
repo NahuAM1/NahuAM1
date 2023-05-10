@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I am currently studying Information Systems Engineering (UTN FRC). 👨‍🎓<br>- I am currently training for the development of FullStack applications. 👨‍💻<br>- I have a creative and open vision of things. 🙌<br>- I try to expand my technical and social skills to grow professionally and personally.⭐
+<br>- I am currently studying Information Systems Engineering (UTN FRC). 👨‍🎓<br>- I am currently training for the development of FullStack applications. 👨‍💻<br>- I have a creative and open vision of things. 🙌<br>- I try to expand my technical and social skills to grow professionally and personally.⭐
 
 
 ## 🌐 Socials:
